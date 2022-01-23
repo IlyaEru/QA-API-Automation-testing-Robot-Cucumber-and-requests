@@ -1,7 +1,9 @@
-##  API Automation Testing using 3 different frameworks/libraries
-- Requests Library
-- Cucumber with behave
-- Robot Framework
+## Description
+### API Automation Testing using 3 different frameworks/libraries. <br>
+#### Requests Library, Cucumber with behave, Robot Framework 
+- Tests with Requests and Cucumber use configuration file with configparser to get data.
+- The Robot Framework test uses external json file for the body and resource file for the rest of the data.
+
 
 # _My Work_
 
